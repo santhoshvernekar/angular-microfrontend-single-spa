@@ -1,5 +1,5 @@
 
-# Angular Microfrontends
+# Angular Microfrontends using Single-SPA
 
 This is a example repository for people who want to have multiple angular microfrontends coexist within a single page. Each
 of the angular applications was created and is managed by Angular CLI.
