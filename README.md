@@ -61,3 +61,26 @@ npm start
 
 Now go to http://localhost:4200 in a browser. Note that you can change any of the ports for the projects by modifying the Import Map inside of
 root-html-file/index.html.
+
+```
+
+# ScreenShots
+
+### Home Page
+
+http://localhost:4200
+
+![homepage](https://user-images.githubusercontent.com/59571096/120921663-68e9e680-c6e2-11eb-83e6-8483f087a990.png)
+
+### App1:
+
+http://localhost:4200/app1
+
+![app1](https://user-images.githubusercontent.com/59571096/120921677-7a32f300-c6e2-11eb-9825-97199136012f.png)
+
+### App2:
+
+http://localhost:4200/app2
+
+![app2](https://user-images.githubusercontent.com/59571096/120921703-828b2e00-c6e2-11eb-8e85-5f4cbbebe4ad.png)
+
